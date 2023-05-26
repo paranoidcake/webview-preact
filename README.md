@@ -1,6 +1,6 @@
 # webview-preact
 
-This project was copied from my [coderdojo-meetings](https://github.com/paranoidcake/coderdojo-meetings) repository to provide a baseline / template for new projects using Preact and Webview on Rust
+A baseline / template for new projects experimenting with using Preact and [Webview](https://github.com/Boscop/web-view) on Rust, a library that renders web-based GUIs as native desktop applications by using the OS level browser renderer, instead of bundling an instance of Chromium like with Electron. 
 
 ## Development Setup
 
